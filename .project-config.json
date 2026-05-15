@@ -1,0 +1,40 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "server",
+    "db",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://2nz3tFzpfSaV5NQ.root:2I3iLsAK3f6zrwPr7nB9@gateway06.us-east-1.prod.aws.tidbcloud.com:4000/Tbw3pkusrpDU8uVuzoQcS8?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": [
+    "no_db_push"
+  ],
+  "git_remote": {
+        "session_token": "IQoJb3JpZ2luX2VjELH//////////wEaCXVzLWVhc3QtMSJHMEUCIH5mhg5JtrCZuKVjxkO7bj9+Xj/LORVCS+cJOxC5twicAiEAuIGifU/KwWtiGWo/hw0HinH6C4VnXb6tCG2EUvXMTEQq9AMIeRAEGgw2NjUzODYwOTg4NjYiDAb2D8EiYIzrYYuFjirRA+LgZUt+XcxQrhII7w58OAb9VzUCO7AVy7+re3lutpt5Adrllwch6CYVm6jzKRtx2jtfMrMEaqxcejDQTw2peXF4bPryp/MAkW3ENQGcBykuEKv4KKncDf191ovLhLWr7r3vBGmj5YU8oKbLGHyzzWm9PfcgVhmN3UaI2+X7Xid+zAd6qQBd5AuqOhaOzEQBcwPHEbDzbidpYpxJx3IQL2pKGPEHS4rlnvkFMEjtUQMP56blhwHvNvG79ZifdGweITvxvtRFX/uXfHpJ9ONGoPcAEWhhfJJdXSxQvaw6Mu0eJQbSUAu2HHIcyM9XQzc38+JnD5Z8YoCC3W95GbPOkRDcSuKggrqKLxYIZCU6zKUqouMW+q+hFrVri8iBO5X7QBmHOkXT8NMTsbfG3eeLOyPenS1iWeKUxexP4s+mPVVrJq9ji31WA2sg8t1jwHXWYIk+Mf526u6xHoFDpjDkCM3TvKFYb/vzHP/gmFFStGx21GUxtap/ymGsDSrfHMcnrxzHkS3pRvaaTgMAlfkVd9QJrx9W1dharS+yaB+bUZ4dBmSY6Iy6dhrelyoR/FWJ5wzajLJOOrzDokc0KT89DHW/yQBC55t/FGFO6JJpgK+VajCOjp3QBjqdAVUkHi0AUnH2fofVcNAn2w58m8AIMD9RQ+LmLAtZru2xWzOOLAn/Occ6PHiyT/p8R5zcm9cw33fSx/EEuHSV/rhFjbQHs+c26LWV/QtakpAla6NsCZCL9PZzEGn3GBXluM1K5Kk7Mut4W+XqhXJ+vKW5ILi2VyeDs1mZhSq3UijwcySVSb/wsyuh8t9h0AkPInO++WyjY/o0GI2RPBY=",
+    "expiration": "2026-05-16T04:17:18.000Z"
+  },
+  "name": "solitaire-plus",
+  "path": "/home/ubuntu/solitaire-plus",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "6E28KwQ3qtNBKenD58owmj",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "T689Sak7q2vtoNwNPGQAkG",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Joshua Harper",
+    "OWNER_OPEN_ID": "EMepv3ur6ANjsXK544Kq3r",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "cf9a4b89-6a3d-4829-8618-d004295ec834",
+    "VITE_APP_ID": "Tbw3pkusrpDU8uVuzoQcS8",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Solitaire+",
+    "VITE_FRONTEND_FORGE_API_KEY": "EjxXqZ3ihGtXYYg6DhH6We",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-db-user",
+  "test_command": "pnpm test"
+}

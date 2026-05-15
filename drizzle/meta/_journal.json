@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778861857607,
+      "tag": "0000_stale_gorilla_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778861980702,
+      "tag": "0001_wealthy_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1778863335494,
+      "tag": "0002_wandering_ogun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1778864018134,
+      "tag": "0003_icy_iron_fist",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1778864410908,
+      "tag": "0004_eager_king_cobra",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1778869403217,
+      "tag": "0005_gray_emma_frost",
+      "breakpoints": true
+    }
+  ]
+}
